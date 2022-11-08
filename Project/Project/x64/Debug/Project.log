@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\권장혁\source\repos\cprojectRepo\Project\Project\소스.c(54,1): warning C4026: 정식 매개 변수 목록을 사용하여 함수를 선언했습니다.
+  Project.vcxproj -> C:\Users\권장혁\source\repos\cprojectRepo\Project\x64\Debug\Project.exe
